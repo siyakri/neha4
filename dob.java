@@ -3,6 +3,6 @@ public class Main {
     String dob = "01/01/2002";
     System.out.println("My dob date is " + dob);
     System.out.println("My dob  is " + dob);
-    System.out.println("yes")
+    System.out.println("yes we got it")
   }
 }
